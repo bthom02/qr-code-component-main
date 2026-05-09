@@ -30,27 +30,27 @@ body {
     box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 4.77%);
 }
 
-#qr-code-img {
+.qr-code-img {
     width: 288px;
     height: 288px;
-    margin-bottom: 24px;
+    margin-bottom: 18px;
     border-radius: 10px;
 }
 
-#text-container {
+.text-container {
     text-align: center;
     font-family: 'Outfit', sans-serif;
     padding: 0 16px;
 }
 
-#main-heading {
+.main-heading {
     color: var(--slate900);
     font-size: 22px;
     font-weight: 700;
     margin-bottom: 16px;
 }
 
-#under-heading-text {
+.under-heading-text {
     color: var(--slate500);
     font-size: 15px;
     font-weight: 400;
